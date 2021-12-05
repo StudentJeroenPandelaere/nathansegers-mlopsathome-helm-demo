@@ -548,4 +548,19 @@ entries:
     urls:
     - https://github.com/helm/charts-repo-actions-demo/releases/download/example-v2-0.2.2/example-v2-0.2.2.tgz
     version: 0.2.2
+  fastapi-example:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-12-05T14:51:55.804758699Z"
+    description: A Helm chart for Kubernetes that will deploy a FastAPI
+    digest: 9074569c2937ea5823e43e73272e32230b01633759b6f3b7aca07de77ca57e01
+    maintainers:
+    - email: nathan.segers@howest.be
+      name: Nathan Segers
+    name: fastapi-example
+    sources:
+    - https://github.com/nathansegers/2021-2022-mlops-fastapi-nathansegers
+    urls:
+    - https://github.com/StudentJeroenPandelaere/nathansegers-mlopsathome-helm-demo/releases/download/fastapi-example-1.0.0/fastapi-example-1.0.0.tgz
+    version: 1.0.0
 generated: "2019-12-08T02:57:21.985425597Z"
